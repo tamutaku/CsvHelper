@@ -50,4 +50,5 @@ public class Program
 			Map(x => x.Kana).Ignore();
 		}
 	}
+
 }
